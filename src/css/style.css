@@ -185,6 +185,7 @@ body {
   font-size: 0.83rem;
 }
 
+<<<<<<< Updated upstream:src/css/style.css
 .card .project-bio h3 {
   font-size: 0.9rem;
 }
@@ -246,6 +247,14 @@ body {
 #footer p {
   font-size: 0.8rem;
 }
+=======
+.card .project-bio p {
+  font-size: 0.83rem;
+}
+.card .project-bio h3 {
+  font-size: 0.9rem;
+}
+>>>>>>> Stashed changes:docs/css/style.css
 
 /* Responsiveness */
 
